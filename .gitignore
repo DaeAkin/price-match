@@ -1,4 +1,6 @@
-
+.DS_Store
+.gradle
+.idea
 # Created by https://www.toptal.com/developers/gitignore/api/macos,vuejs,intellij,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,vuejs,intellij,java
 
